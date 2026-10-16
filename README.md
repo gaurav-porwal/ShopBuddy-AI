@@ -1,5 +1,4 @@
 # ShopBuddy-AI
-# ShopBuddy-AI
 
 An AI shopping assistant that searches a product catalog with natural language and manages a real shopping cart, built **four ways** (Langflow, CrewAI, AutoGen, LangGraph) on top of the same Odoo backend so the frameworks can be compared side by side.
 
